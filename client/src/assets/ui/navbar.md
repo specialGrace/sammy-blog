@@ -9,19 +9,19 @@
           <Link to="/" className="text-purple-600 font-semibold hover:text-purple-500"> Home </Link>
         </li>
         <li className="px-2 md:px-4">
-          <a href="#" className="text-gray-500 font-semibold hover:text-purple-500"> About </a>
+          <Link to ="/" className="text-gray-500 font-semibold hover:text-purple-500"> About </Link>
         </li>
         <li className="px-2 md:px-4">
-          <a href="#" className="text-gray-500 font-semibold hover:text-purple-500"> Press </a>
+          <Link to ="/" className="text-gray-500 font-semibold hover:text-purple-500"> Press </Link>
         </li>
         <li className="px-2 md:px-4">
-          <a href="#" className="text-gray-500 font-semibold hover:text-purple-500"> Contact </a>
+          <Link to ="/" className="text-gray-500 font-semibold hover:text-purple-500"> Contact </Link>
         </li>
         <li className="px-2 md:px-4 hidden md:block">
-          <a href="#" className="text-gray-500 font-semibold hover:text-purple-500"> Login </a>
+          <Link to ="/" className="text-gray-500 font-semibold hover:text-purple-500"> Login </Link>
         </li>
         <li className="px-2 md:px-4 hidden md:block">
-          <a href="#" className="text-gray-500 font-semibold hover:text-purple-500"> Register </a>
+          <Link to ="/" className="text-gray-500 font-semibold hover:text-purple-500"> Register </Link>
         </li>
       </ul>
 
